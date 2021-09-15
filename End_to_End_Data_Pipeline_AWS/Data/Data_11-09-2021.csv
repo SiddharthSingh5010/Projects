@@ -1,0 +1,601 @@
+Flight Date,Status,Departure Airport,Departure IATA,Arrival Airport,Arrival IATA,Airline Name,Airline IATA,Flight Number,Flight IATA,Departure Delay,Arrival Delay,Arrival Region,Arrival City,Departure Date,Departure Time,Arrival Date,Arrival Time,Date
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,933,UK933,19.0,8.0,Asia,Kolkata,2021-09-11,15:49:00,2021-09-11,17:42:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,AirAsia India,I5,775,I5775,31.0,0.0,Asia,Kolkata,2021-09-11,12:25:00,2021-09-11,14:29:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,Vistara,UK,747,UK747,15.0,9.0,Asia,Kolkata,2021-09-11,06:35:00,2021-09-11,08:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,IndiGo,6E,2306,6E2306,65.0,30.0,Asia,Kolkata,2021-09-11,15:51:00,2021-09-11,17:39:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hong Kong International,HKG,American Airlines,AA,8944,AA8944,0.0,0.0,Asia,Hong_Kong,2021-09-11,02:09:00,2021-09-11,09:30:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,Vistara,UK,721,UK721,12.0,0.0,Asia,Kolkata,2021-09-11,15:12:00,2021-09-11,17:16:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,SpiceJet,SG,8701,SG8701,24.0,0.0,Asia,Kolkata,2021-09-11,07:14:00,2021-09-11,08:50:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Charles De Gaulle,CDG,Air India,AI,143,AI143,27.0,6.0,Europe,Paris,2021-09-11,02:07:00,2021-09-11,07:16:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,GoAir,G8,101,G8101,4.0,0.0,Asia,Kolkata,2021-09-11,05:49:00,2021-09-11,07:49:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hyderabad Airport,HYD,IndiGo,6E,2331,6E2331,13.0,0.0,Asia,Kolkata,2021-09-11,07:23:00,2021-09-11,09:12:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Ahmedabad,AMD,British Airways,BA,5821,BA5821,13.0,0.0,Asia,Kolkata,2021-09-11,06:43:00,2021-09-11,07:54:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Ahmedabad,AMD,British Airways,BA,5823,BA5823,27.0,2.0,Asia,Kolkata,2021-09-11,09:12:00,2021-09-11,10:19:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,Vistara,UK,847,UK847,28.0,0.0,Asia,Kolkata,2021-09-11,11:37:00,2021-09-11,13:39:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,British Airways,BA,5871,BA5871,28.0,0.0,Asia,Kolkata,2021-09-11,11:37:00,2021-09-11,13:39:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,Air India,AI,401,AI401,26.0,3.0,Asia,Kolkata,2021-09-11,07:25:00,2021-09-11,09:13:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,963,UK963,17.0,0.0,Asia,Kolkata,2021-09-11,09:06:00,2021-09-11,10:44:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Ahmedabad,AMD,GoAir,G8,719,G8719,0.0,0.0,Asia,Kolkata,2021-09-11,07:16:00,2021-09-11,08:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dubai,DXB,Air India Express,IX,195,IX195,20.0,0.0,Asia,Dubai,2021-09-11,00:50:00,2021-09-11,02:22:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dubai,DXB,IndiGo,6E,21,6E21,88.0,40.0,Asia,Dubai,2021-09-11,10:27:00,2021-09-11,11:59:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,Vistara,UK,705,UK705,32.0,15.0,Asia,Kolkata,2021-09-11,08:01:00,2021-09-11,09:49:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Ahmedabad,AMD,United Airlines,UA,7746,UA7746,27.0,2.0,Asia,Kolkata,2021-09-11,09:12:00,2021-09-11,10:19:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,927,UK927,17.0,0.0,Asia,Kolkata,2021-09-11,09:47:00,2021-09-11,11:21:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,SpiceJet,SG,8152,SG8152,56.0,32.0,Asia,Kolkata,2021-09-11,07:56:00,2021-09-11,10:07:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Ahmedabad,AMD,Vistara,UK,959,UK959,13.0,0.0,Asia,Kolkata,2021-09-11,06:43:00,2021-09-11,07:54:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Ahmedabad,AMD,Vistara,UK,979,UK979,27.0,2.0,Asia,Kolkata,2021-09-11,09:12:00,2021-09-11,10:19:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hyderabad Airport,HYD,IndiGo,6E,6103,6E6103,70.0,53.0,Asia,Kolkata,2021-09-11,12:56:00,2021-09-11,14:42:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Schiphol,AMS,KLM,KL,872,KL872,31.0,0.0,Europe,Amsterdam,2021-09-11,04:05:00,2021-09-11,09:45:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,United Airlines,UA,7754,UA7754,28.0,0.0,Asia,Kolkata,2021-09-11,11:37:00,2021-09-11,13:39:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,AirAsia India,I5,783,I5783,35.0,7.0,Asia,Kolkata,2021-09-11,07:49:00,2021-09-11,09:52:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,AirAsia India,I5,548,I5548,10.0,0.0,Asia,Kolkata,2021-09-11,05:05:00,2021-09-11,06:59:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Raja Sansi International Airport,ATQ,SpiceJet,SG,9333,SG9333,62.0,0.0,Asia,Kolkata,2021-09-11,01:12:00,2021-09-11,01:51:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,IndiGo,6E,2346,6E2346,1.0,0.0,Asia,Kolkata,2021-09-11,06:06:00,2021-09-11,07:59:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,GoAir,G8,336,G8336,12.0,0.0,Asia,Kolkata,2021-09-11,14:41:00,2021-09-11,16:21:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Abu Dhabi International,AUH,Alitalia,AZ,5702,AZ5702,17.0,0.0,Asia,Dubai,2021-09-11,05:02:00,2021-09-11,06:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cochin International,COK,AirAsia India,I5,791,I5791,7.0,0.0,Asia,Kolkata,2021-09-11,04:51:00,2021-09-11,07:31:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Abu Dhabi International,AUH,Etihad Airways,EY,211,EY211,17.0,0.0,Asia,Dubai,2021-09-11,05:02:00,2021-09-11,06:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cochin International,COK,Air India,AI,512,AI512,17.0,0.0,Asia,Kolkata,2021-09-11,14:27:00,2021-09-11,17:11:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Abu Dhabi International,AUH,flynas,XY,3211,XY3211,17.0,0.0,Asia,Dubai,2021-09-11,05:02:00,2021-09-11,06:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Charles De Gaulle,CDG,Air France,AF,225,AF225,14.0,0.0,Europe,Paris,2021-09-11,01:29:00,2021-09-11,07:08:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dimapur,DMU,IndiGo,6E,2311,6E2311,54.0,31.0,Asia,Kolkata,2021-09-11,12:14:00,2021-09-11,14:40:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Frankfurt International Airport,FRA,Air India,AI,121,AI121,14.0,0.0,Europe,Berlin,2021-09-11,05:19:00,2021-09-11,09:54:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dubai,DXB,flydubai,FZ,432,FZ432,39.0,0.0,Asia,Dubai,2021-09-11,07:33:00,2021-09-11,09:02:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dibrugarh,DIB,IndiGo,6E,6166,6E6166,7.0,0.0,Asia,Kolkata,2021-09-11,05:22:00,2021-09-11,07:55:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,United Airlines,UA,7751,UA7751,15.0,9.0,Asia,Kolkata,2021-09-11,06:35:00,2021-09-11,08:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,995,UK995,38.0,11.0,Asia,Kolkata,2021-09-11,10:58:00,2021-09-11,12:46:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,GoAir,G8,286,G8286,48.0,27.0,Asia,Kolkata,2021-09-11,11:28:00,2021-09-11,13:37:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,Air India,AI,885,AI885,38.0,15.0,Asia,Kolkata,2021-09-11,12:48:00,2021-09-11,15:00:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,United Airlines,UA,7753,UA7753,15.0,5.0,Asia,Kolkata,2021-09-11,10:05:00,2021-09-11,12:15:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Vadodara,BDQ,Air India,AI,823,AI823,0.0,0.0,Asia,Kolkata,2021-09-11,04:43:00,2021-09-11,05:54:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bhopal,BHO,IndiGo,6E,198,6E198,54.0,21.0,Asia,Kolkata,2021-09-11,09:03:00,2021-09-11,10:00:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hong Kong International,HKG,Cathay Pacific,CX,694,CX694,0.0,0.0,Asia,Hong_Kong,2021-09-11,02:09:00,2021-09-11,09:30:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bhopal,BHO,Air India,AI,435,AI435,4.0,0.0,Asia,Kolkata,2021-09-11,05:58:00,2021-09-11,06:59:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,Vistara,UK,855,UK855,20.0,0.0,Asia,Kolkata,2021-09-11,08:50:00,2021-09-11,10:58:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Suvarnabhumi International,BKK,Air India,AI,332,AI332,21.0,7.0,Asia,Bangkok,2021-09-11,07:20:00,2021-09-11,12:26:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,SpiceJet,SG,8211,SG8211,28.0,0.0,Asia,Kolkata,2021-09-11,09:02:00,2021-09-11,11:05:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hong Kong International,HKG,Qantas,QF,8218,QF8218,0.0,0.0,Asia,Hong_Kong,2021-09-11,02:09:00,2021-09-11,09:30:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hyderabad Airport,HYD,IndiGo,6E,816,6E816,54.0,19.0,Asia,Kolkata,2021-09-11,10:38:00,2021-09-11,12:29:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Hong Kong International,HKG,Jet Linx Aviation,JL,7908,JL7908,0.0,0.0,Asia,Hong_Kong,2021-09-11,02:09:00,2021-09-11,09:30:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Goa International,GOI,SpiceJet,SG,8171,SG8171,30.0,44.0,Asia,Kolkata,2021-09-11,13:04:00,2021-09-11,15:08:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,GoAir,G8,151,G8151,42.0,33.0,Asia,Kolkata,2021-09-11,13:17:00,2021-09-11,15:27:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,IndiGo,6E,5169,6E5169,30.0,12.0,Asia,Kolkata,2021-09-11,11:35:00,2021-09-11,13:57:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,993,UK993,38.0,5.0,Asia,Kolkata,2021-09-11,13:22:00,2021-09-11,15:12:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,943,UK943,38.0,0.0,Asia,Kolkata,2021-09-11,08:07:00,2021-09-11,09:41:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,IndiGo,6E,772,6E772,37.0,11.0,Asia,Kolkata,2021-09-11,07:57:00,2021-09-11,10:15:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Air India,AI,502,AI502,34.0,6.0,Asia,Kolkata,2021-09-11,14:03:00,2021-09-11,16:16:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,GoAir,G8,334,G8334,27.0,5.0,Asia,Kolkata,2021-09-11,08:26:00,2021-09-11,10:09:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,IndiGo,6E,2214,6E2214,0.0,0.0,Asia,Kolkata,2021-09-11,02:45:00,2021-09-11,04:38:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Air India,AI,506,AI506,41.0,11.0,Asia,Kolkata,2021-09-11,10:25:00,2021-09-11,12:40:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,Ethiopian Airlines,ET,1137,ET1137,26.0,3.0,Asia,Kolkata,2021-09-11,07:25:00,2021-09-11,09:13:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,Asiana Airlines,OZ,6381,OZ6381,26.0,3.0,Asia,Kolkata,2021-09-11,07:25:00,2021-09-11,09:13:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Air India,AI,803,AI803,13.0,0.0,Asia,Kolkata,2021-09-11,06:22:00,2021-09-11,08:43:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,British Airways,BA,5839,BA5839,23.0,7.0,Asia,Kolkata,2021-09-11,08:32:00,2021-09-11,10:56:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,British Airways,BA,5859,BA5859,15.0,9.0,Asia,Kolkata,2021-09-11,06:35:00,2021-09-11,08:28:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Kozhikode Airport,CCJ,IndiGo,6E,5913,6E5913,8.0,0.0,Asia,Kolkata,2021-09-11,05:38:00,2021-09-11,08:17:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,British Airways,BA,5851,BA5851,38.0,11.0,Asia,Kolkata,2021-09-11,10:58:00,2021-09-11,12:46:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cochin International,COK,IndiGo,6E,2241,6E2241,25.0,24.0,Asia,Kolkata,2021-09-11,11:45:00,2021-09-11,14:33:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Ethiopian Airlines,ET,1222,ET1222,13.0,0.0,Asia,Kolkata,2021-09-11,06:22:00,2021-09-11,08:43:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cochin International,COK,British Airways,BA,5867,BA5867,6.0,0.0,Asia,Kolkata,2021-09-11,06:00:00,2021-09-11,08:46:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,AirAsia India,I5,740,I5740,21.0,0.0,Asia,Kolkata,2021-09-11,08:21:00,2021-09-11,10:43:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cologne/bonn,CGN,empty,0,0,0,25.0,14.0,Europe,Berlin,2021-09-11,05:45:00,2021-09-11,11:03:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,SpiceJet,SG,7616,SG7616,9.0,0.0,Asia,Kolkata,2021-09-11,05:09:00,2021-09-11,07:42:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Air Mauritius,MK,8122,MK8122,41.0,11.0,Asia,Kolkata,2021-09-11,10:25:00,2021-09-11,12:40:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Doha International,DOH,Qatar Airways,QR,579,QR579,28.0,0.0,Asia,Qatar,2021-09-11,03:52:00,2021-09-11,04:33:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cochin International,COK,Vistara,UK,883,UK883,6.0,0.0,Asia,Kolkata,2021-09-11,06:00:00,2021-09-11,08:46:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Frankfurt International Airport,FRA,Vistara,UK,25,UK25,20.0,0.0,Europe,Berlin,2021-09-11,03:34:00,2021-09-11,08:02:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,SpiceJet,SG,8191,SG8191,24.0,8.0,Asia,Kolkata,2021-09-11,06:38:00,2021-09-11,08:58:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dubai,DXB,SpiceJet,SG,705,SG705,14.0,0.0,Asia,Dubai,2021-09-11,00:58:00,2021-09-11,02:25:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Dubai,DXB,Emirates,EK,513,EK513,10.0,0.0,Asia,Dubai,2021-09-11,04:24:00,2021-09-11,05:52:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Vistara,UK,815,UK815,23.0,7.0,Asia,Kolkata,2021-09-11,08:32:00,2021-09-11,10:56:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Cochin International,COK,United Airlines,UA,7752,UA7752,6.0,0.0,Asia,Kolkata,2021-09-11,06:00:00,2021-09-11,08:46:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Netaji Subhas Chandra,CCU,SpiceJet,SG,263,SG263,10.0,0.0,Asia,Kolkata,2021-09-11,05:54:00,2021-09-11,07:52:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Bangalore International Airport,BLR,Vistara,UK,819,UK819,28.0,2.0,Asia,Kolkata,2021-09-11,14:37:00,2021-09-11,16:55:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,British Airways,BA,5849,BA5849,17.0,0.0,Asia,Kolkata,2021-09-11,09:06:00,2021-09-11,10:44:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,Vistara,UK,741,UK741,15.0,5.0,Asia,Kolkata,2021-09-11,10:05:00,2021-09-11,12:15:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,Air India,AI,889,AI889,10.0,0.0,Asia,Kolkata,2021-09-11,09:40:00,2021-09-11,11:46:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,IndiGo,6E,2939,6E2939,75.0,50.0,Asia,Kolkata,2021-09-11,08:14:00,2021-09-11,10:19:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5071,6E5071,27.0,30.0,Asia,Kolkata,2021-09-11,14:47:00,2021-09-11,16:34:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Borjhar,GAU,IndiGo,6E,2251,6E2251,0.0,0.0,Asia,Kolkata,2021-09-11,05:23:00,2021-09-11,07:27:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,Air India,AI,678,AI678,14.0,0.0,Asia,Kolkata,2021-09-11,09:14:00,2021-09-11,10:54:00,11-09-2021
+2021-09-11,landed,Indira Gandhi International,DEL,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,6125,6E6125,7.0,0.0,Asia,Kolkata,2021-09-11,06:16:00,2021-09-11,07:59:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,SpiceJet,SG,612,SG612,25.0,37.0,Asia,Kolkata,2021-09-11,09:15:00,2021-09-11,11:32:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Madras International (Meenambakkam),MAA,IndiGo,6E,5322,6E5322,15.0,0.0,Asia,Kolkata,2021-09-11,10:15:00,2021-09-11,11:49:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Devi Ahilyabai Holkar,IDR,IndiGo,6E,176,6E176,20.0,0.0,Asia,Kolkata,2021-09-11,14:40:00,2021-09-11,15:38:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Frankfurt International Airport,FRA,Air India,AI,8757,AI8757,16.0,0.0,Europe,Berlin,2021-09-11,03:06:00,2021-09-11,07:27:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Heathrow,LHR,American Airlines,AA,6658,AA6658,23.0,6.0,Europe,London,2021-09-11,02:17:00,2021-09-11,06:55:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Ahmedabad,AMD,IndiGo,6E,5392,6E5392,20.0,0.0,Asia,Kolkata,2021-09-11,16:34:00,2021-09-11,17:25:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,Vistara,UK,902,UK902,8.0,0.0,Asia,Kolkata,2021-09-11,15:52:00,2021-09-11,17:45:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Hyderabad Airport,HYD,IndiGo,6E,5317,6E5317,7.0,0.0,Asia,Kolkata,2021-09-11,10:41:00,2021-09-11,11:45:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Dubai,DXB,Air India Express,IX,247,IX247,44.0,23.0,Asia,Dubai,2021-09-11,10:14:00,2021-09-11,11:22:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Ahmedabad,AMD,IndiGo,6E,6568,6E6568,0.0,0.0,Asia,Kolkata,2021-09-11,09:35:00,2021-09-11,10:26:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Sanganeer,JAI,IndiGo,6E,6515,6E6515,6.0,0.0,Asia,Kolkata,2021-09-11,06:10:00,2021-09-11,07:38:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Amausi,LKO,IndiGo,6E,832,6E832,9.0,0.0,Asia,Kolkata,2021-09-11,11:38:00,2021-09-11,13:28:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bajpe,IXE,Air India,AI,679,AI679,14.0,0.0,Asia,Kolkata,2021-09-11,10:38:00,2021-09-11,11:42:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Ahmedabad,AMD,Air India,AI,637,AI637,0.0,0.0,Asia,Kolkata,2021-09-11,16:41:00,2021-09-11,17:28:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Doha International,DOH,Qatar Airways,QR,561,QR561,81.0,46.0,Asia,Qatar,2021-09-11,10:10:00,2021-09-11,10:35:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,GoAir,G8,384,G8384,7.0,0.0,Asia,Kolkata,2021-09-11,09:57:00,2021-09-11,10:44:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Ahmedabad,AMD,GoAir,G8,365,G8365,0.0,0.0,Asia,Kolkata,2021-09-11,06:58:00,2021-09-11,07:47:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Diu,DIU,Air India,AI,9623,AI9623,15.0,0.0,Asia,Kolkata,2021-09-11,15:45:00,2021-09-11,16:27:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Schiphol,AMS,Air France,AF,3132,AF3132,20.0,0.0,Europe,Amsterdam,2021-09-11,02:49:00,2021-09-11,08:20:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Schiphol,AMS,KLM,KL,878,KL878,20.0,0.0,Europe,Amsterdam,2021-09-11,02:49:00,2021-09-11,08:20:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Raja Sansi International Airport,ATQ,IndiGo,6E,453,6E453,13.0,3.0,Asia,Kolkata,2021-09-11,11:32:00,2021-09-11,13:38:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Raja Sansi International Airport,ATQ,Air India,AI,649,AI649,20.0,3.0,Asia,Kolkata,2021-09-11,07:35:00,2021-09-11,09:53:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Heathrow,LHR,Air India,AI,131,AI131,11.0,0.0,Europe,London,2021-09-11,06:41:00,2021-09-11,11:15:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bajpe,IXE,IndiGo,6E,5327,6E5327,0.0,0.0,Asia,Kolkata,2021-09-11,09:30:00,2021-09-11,10:34:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Amausi,LKO,Air India,AI,625,AI625,10.0,0.0,Asia,Kolkata,2021-09-11,08:15:00,2021-09-11,09:58:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Sanganeer,JAI,IndiGo,6E,5568,6E5568,7.0,0.0,Asia,Kolkata,2021-09-11,15:31:00,2021-09-11,16:57:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bahrain International,BAH,Air India,AI,1941,AI1941,23.0,0.0,Asia,Bahrain,2021-09-11,11:03:00,2021-09-11,11:42:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,GoAir,G8,327,G8327,0.0,8.0,Asia,Kolkata,2021-09-11,08:02:00,2021-09-11,10:17:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bhubaneswar,BBI,IndiGo,6E,533,6E533,4.0,0.0,Asia,Kolkata,2021-09-11,10:03:00,2021-09-11,11:59:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bhubaneswar,BBI,Air India,AI,669,AI669,0.0,0.0,Asia,Kolkata,2021-09-11,11:53:00,2021-09-11,13:51:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bhubaneswar,BBI,Vistara,UK,775,UK775,14.0,0.0,Asia,Kolkata,2021-09-11,12:38:00,2021-09-11,14:35:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,IndiGo,6E,831,6E831,15.0,0.0,Asia,Kolkata,2021-09-11,11:30:00,2021-09-11,12:14:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bhopal,BHO,IndiGo,6E,107,6E107,8.0,0.0,Asia,Kolkata,2021-09-11,15:17:00,2021-09-11,16:22:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,IndiGo,6E,376,6E376,3.0,0.0,Asia,Kolkata,2021-09-11,09:02:00,2021-09-11,09:47:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Dubai,DXB,flydubai,FZ,446,FZ446,17.0,0.0,Asia,Dubai,2021-09-11,05:27:00,2021-09-11,06:43:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bhopal,BHO,IndiGo,6E,6182,6E6182,0.0,0.0,Asia,Kolkata,2021-09-11,06:08:00,2021-09-11,07:15:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,Vistara,UK,944,UK944,9.0,0.0,Asia,Kolkata,2021-09-11,14:48:00,2021-09-11,16:41:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Devi Ahilyabai Holkar,IDR,IndiGo,6E,5307,6E5307,18.0,0.0,Asia,Kolkata,2021-09-11,10:18:00,2021-09-11,11:15:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Hyderabad Airport,HYD,IndiGo,6E,5375,6E5375,14.0,0.0,Asia,Kolkata,2021-09-11,16:28:00,2021-09-11,17:32:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bhavnagar,BHU,SpiceJet,SG,3004,SG3004,4.0,0.0,Asia,Kolkata,2021-09-11,14:34:00,2021-09-11,15:14:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,AirAsia India,I5,430,I5430,0.0,0.0,Asia,Kolkata,2021-09-11,07:56:00,2021-09-11,08:40:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,IndiGo,6E,199,6E199,0.0,0.0,Asia,Kolkata,2021-09-11,05:56:00,2021-09-11,07:13:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,IndiGo,6E,236,6E236,12.0,0.0,Asia,Kolkata,2021-09-11,10:07:00,2021-09-11,11:26:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,IndiGo,6E,5338,6E5338,4.0,0.0,Asia,Kolkata,2021-09-11,08:29:00,2021-09-11,09:48:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,Vistara,UK,930,UK930,0.0,3.0,Asia,Kolkata,2021-09-11,07:28:00,2021-09-11,09:43:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bamrauli,IXD,IndiGo,6E,5914,6E5914,8.0,0.0,Asia,Kolkata,2021-09-11,11:48:00,2021-09-11,13:24:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,IndiGo,6E,5504,6E5504,8.0,0.0,Asia,Kolkata,2021-09-11,13:42:00,2021-09-11,15:02:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Jodhpur,JDH,IndiGo,6E,918,6E918,19.0,14.0,Asia,Kolkata,2021-09-11,11:28:00,2021-09-11,12:58:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Heathrow,LHR,Delta Air Lines,DL,4353,DL4353,15.0,0.0,Europe,London,2021-09-11,02:34:00,2021-09-11,07:01:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,IndiGo,6E,919,6E919,10.0,8.0,Asia,Kolkata,2021-09-11,17:05:00,2021-09-11,18:23:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Heathrow,LHR,British Airways,BA,138,BA138,23.0,6.0,Europe,London,2021-09-11,02:17:00,2021-09-11,06:55:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Jodhpur,JDH,IndiGo,6E,334,6E334,11.0,9.0,Asia,Kolkata,2021-09-11,15:06:00,2021-09-11,16:38:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Kandla,IXY,SpiceJet,SG,3323,SG3323,20.0,0.0,Asia,Kolkata,2021-09-11,11:00:00,2021-09-11,12:04:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Heathrow,LHR,Virgin Atlantic,VS,355,VS355,15.0,0.0,Europe,London,2021-09-11,02:34:00,2021-09-11,07:01:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Madras International (Meenambakkam),MAA,IndiGo,6E,907,6E907,7.0,0.0,Asia,Kolkata,2021-09-11,08:16:00,2021-09-11,09:52:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,AirAsia India,I5,942,I5942,1.0,0.0,Asia,Kolkata,2021-09-11,12:16:00,2021-09-11,13:34:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Amausi,LKO,SriLankan Airlines,UL,3627,UL3627,10.0,0.0,Asia,Kolkata,2021-09-11,08:15:00,2021-09-11,09:58:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,Vistara,UK,851,UK851,12.0,0.0,Asia,Kolkata,2021-09-11,07:12:00,2021-09-11,08:32:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Heathrow,LHR,Iberia,IB,7364,IB7364,23.0,6.0,Europe,London,2021-09-11,02:17:00,2021-09-11,06:55:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bangalore International Airport,BLR,Vistara,UK,853,UK853,10.0,0.0,Asia,Kolkata,2021-09-11,16:09:00,2021-09-11,17:31:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Madurai,IXM,IndiGo,6E,895,6E895,20.0,11.0,Asia,Kolkata,2021-09-11,11:24:00,2021-09-11,13:21:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,British Airways,BA,5850,BA5850,8.0,0.0,Asia,Kolkata,2021-09-11,15:52:00,2021-09-11,17:45:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Diu,DIU,Alliance Air,9I,623,9I623,15.0,0.0,Asia,Kolkata,2021-09-11,15:45:00,2021-09-11,16:27:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Doha International,DOH,Qatar Airways,QR,8607,QR8607,15.0,0.0,Asia,Qatar,2021-09-11,04:45:00,2021-09-11,05:02:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Doha International,DOH,Qatar Airways,QR,557,QR557,2.0,0.0,Asia,Qatar,2021-09-11,04:27:00,2021-09-11,04:43:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,Vistara,UK,960,UK960,12.0,0.0,Asia,Kolkata,2021-09-11,12:06:00,2021-09-11,14:03:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,British Airways,BA,5846,BA5846,0.0,3.0,Asia,Kolkata,2021-09-11,07:28:00,2021-09-11,09:43:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Frankfurt International Airport,FRA,Lufthansa,LH,757,LH757,16.0,0.0,Europe,Berlin,2021-09-11,03:06:00,2021-09-11,07:27:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Frankfurt International Airport,FRA,Air Canada,AC,9355,AC9355,16.0,0.0,Europe,Berlin,2021-09-11,03:06:00,2021-09-11,07:27:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Dubai,DXB,Emirates,EK,505,EK505,26.0,0.0,Asia,Dubai,2021-09-11,10:36:00,2021-09-11,11:30:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,Air India,AI,663,AI663,5.0,0.0,Asia,Kolkata,2021-09-11,13:29:00,2021-09-11,14:13:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,IndiGo,6E,711,6E711,27.0,1.0,Asia,Kolkata,2021-09-11,14:46:00,2021-09-11,15:31:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Borjhar,GAU,IndiGo,6E,5397,6E5397,10.0,0.0,Asia,Kolkata,2021-09-11,11:59:00,2021-09-11,14:50:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Dubai,DXB,Emirates,EK,501,EK501,3.0,0.0,Asia,Dubai,2021-09-11,04:33:00,2021-09-11,05:23:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Netaji Subhas Chandra,CCU,SpiceJet,SG,7095,SG7095,56.0,34.0,Asia,Kolkata,2021-09-11,05:55:00,2021-09-11,08:18:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,Air India,AI,809,AI809,28.0,18.0,Asia,Kolkata,2021-09-11,10:57:00,2021-09-11,13:03:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,GoAir,G8,382,G8382,5.0,0.0,Asia,Kolkata,2021-09-11,15:24:00,2021-09-11,16:14:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,Vistara,UK,841,UK841,15.0,0.0,Asia,Kolkata,2021-09-11,11:39:00,2021-09-11,12:25:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,United Airlines,UA,7782,UA7782,15.0,0.0,Asia,Kolkata,2021-09-11,11:39:00,2021-09-11,12:25:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,GoAir,G8,331,G8331,11.0,0.0,Asia,Kolkata,2021-09-11,11:41:00,2021-09-11,12:29:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Hubli,HBX,IndiGo,6E,7292,6E7292,9.0,0.0,Asia,Kolkata,2021-09-11,15:13:00,2021-09-11,16:29:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Peelamedu,CJB,IndiGo,6E,5398,6E5398,7.0,0.0,Asia,Kolkata,2021-09-11,14:22:00,2021-09-11,15:52:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Hyderabad Airport,HYD,IndiGo,6E,6091,6E6091,36.0,15.0,Asia,Kolkata,2021-09-11,14:30:00,2021-09-11,15:30:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Chandigarh,IXC,IndiGo,6E,734,6E734,15.0,5.0,Asia,Kolkata,2021-09-11,14:38:00,2021-09-11,16:30:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Peelamedu,CJB,GoAir,G8,2603,G82603,4.0,0.0,Asia,Kolkata,2021-09-11,12:03:00,2021-09-11,13:36:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Bandaranaike International,CMB,SriLankan Airlines,UL,144,UL144,28.0,7.0,Asia,Colombo,2021-09-11,11:27:00,2021-09-11,13:32:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Devi Ahilyabai Holkar,IDR,Air India,AI,635,AI635,15.0,0.0,Asia,Kolkata,2021-09-11,07:29:00,2021-09-11,08:28:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Cochin International,COK,IndiGo,6E,5313,6E5313,14.0,0.0,Asia,Kolkata,2021-09-11,09:23:00,2021-09-11,10:55:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Hyderabad Airport,HYD,IndiGo,6E,5731,6E5731,0.0,0.0,Asia,Kolkata,2021-09-11,07:19:00,2021-09-11,08:21:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Cochin International,COK,IndiGo,6E,5315,6E5315,7.0,0.0,Asia,Kolkata,2021-09-11,14:37:00,2021-09-11,16:12:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Gorakhpur,GOP,IndiGo,6E,544,6E544,5.0,0.0,Asia,Kolkata,2021-09-11,12:10:00,2021-09-11,14:15:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Goa International,GOI,Air India,AI,685,AI685,2.0,0.0,Asia,Kolkata,2021-09-11,05:33:00,2021-09-11,06:17:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,Air India,AI,687,AI687,4.0,0.0,Asia,Kolkata,2021-09-11,16:03:00,2021-09-11,17:50:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Chandigarh,IXC,Vistara,UK,653,UK653,8.0,0.0,Asia,Kolkata,2021-09-11,09:37:00,2021-09-11,11:38:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Cochin International,COK,GoAir,G8,347,G8347,39.0,14.0,Asia,Kolkata,2021-09-11,05:48:00,2021-09-11,07:23:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Chandigarh,IXC,United Airlines,UA,7784,UA7784,8.0,0.0,Asia,Kolkata,2021-09-11,09:37:00,2021-09-11,11:38:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Dehra Dun,DED,Air India,AI,688,AI688,4.0,4.0,Asia,Kolkata,2021-09-11,08:23:00,2021-09-11,10:18:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,IndiGo,6E,168,6E168,9.0,0.0,Asia,Kolkata,2021-09-11,11:08:00,2021-09-11,13:09:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Chandigarh,IXC,GoAir,G8,1381,G81381,8.0,0.0,Asia,Kolkata,2021-09-11,08:47:00,2021-09-11,10:50:00,11-09-2021
+2021-09-11,landed,Chhatrapati Shivaji International (Sahar International),BOM,Indira Gandhi International,DEL,IndiGo,6E,6126,6E6126,6.0,26.0,Asia,Kolkata,2021-09-11,09:20:00,2021-09-11,11:46:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Ahmedabad,AMD,IndiGo,6E,6719,6E6719,0.0,0.0,Asia,Kolkata,2021-09-11,12:19:00,2021-09-11,13:45:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Birsa Munda International,IXR,IndiGo,6E,6242,6E6242,0.0,0.0,Asia,Kolkata,2021-09-11,06:06:00,2021-09-11,07:38:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Ahmedabad,AMD,IndiGo,6E,995,6E995,5.0,0.0,Asia,Kolkata,2021-09-11,05:10:00,2021-09-11,06:35:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Borjhar,GAU,IndiGo,6E,186,6E186,8.0,0.0,Asia,Kolkata,2021-09-11,09:47:00,2021-09-11,12:07:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Sharjah,SHJ,Air Arabia,G9,459,G9459,41.0,21.0,Asia,Dubai,2021-09-11,05:25:00,2021-09-11,07:11:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Rajahmundry,RJA,IndiGo,6E,7228,6E7228,6.0,0.0,Asia,Kolkata,2021-09-11,16:00:00,2021-09-11,17:00:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Kuwait International,KWI,Air India,AI,987,AI987,13.0,0.0,Asia,Kuwait,2021-09-11,09:23:00,2021-09-11,11:05:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bhubaneswar,BBI,IndiGo,6E,922,6E922,3.0,0.0,Asia,Kolkata,2021-09-11,14:32:00,2021-09-11,15:53:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Vadodara,BDQ,IndiGo,6E,269,6E269,7.0,0.0,Asia,Kolkata,2021-09-11,11:26:00,2021-09-11,12:49:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Sanganeer,JAI,IndiGo,6E,913,6E913,9.0,0.0,Asia,Kolkata,2021-09-11,09:49:00,2021-09-11,11:24:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Dubai,DXB,Emirates,EK,527,EK527,6.0,0.0,Asia,Dubai,2021-09-11,10:05:00,2021-09-11,11:40:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bhopal,BHO,IndiGo,6E,7121,6E7121,3.0,0.0,Asia,Kolkata,2021-09-11,06:43:00,2021-09-11,08:31:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Malé International Airport,MLE,IndiGo,6E,8108,6E8108,10.0,18.0,Indian,Maldives,2021-09-11,14:49:00,2021-09-11,16:47:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,Air India,AI,9893,AI9893,25.0,6.0,Asia,Kolkata,2021-09-11,06:49:00,2021-09-11,08:06:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Goa International,GOI,IndiGo,6E,743,6E743,7.0,0.0,Asia,Kolkata,2021-09-11,07:16:00,2021-09-11,08:07:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,479,6E479,3.0,0.0,Asia,Kolkata,2021-09-11,15:17:00,2021-09-11,16:02:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,6066,6E6066,0.0,0.0,Asia,Kolkata,2021-09-11,09:01:00,2021-09-11,09:51:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,6319,6E6319,37.0,34.0,Asia,Kolkata,2021-09-11,17:01:00,2021-09-11,18:13:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,827,6E827,0.0,0.0,Asia,Kolkata,2021-09-11,13:03:00,2021-09-11,13:51:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Dubai,DXB,flydubai,FZ,436,FZ436,15.0,0.0,Asia,Dubai,2021-09-11,10:49:00,2021-09-11,12:29:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,887,6E887,6.0,0.0,Asia,Kolkata,2021-09-11,05:21:00,2021-09-11,06:31:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,Alliance Air,9I,502,9I502,0.0,0.0,Asia,Kolkata,2021-09-11,08:46:00,2021-09-11,09:55:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Sanganeer,JAI,AirAsia India,I5,1576,I51576,4.0,0.0,Asia,Kolkata,2021-09-11,09:19:00,2021-09-11,10:52:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Kolhapur,KLH,IndiGo,6E,7994,6E7994,8.0,0.0,Asia,Kolkata,2021-09-11,13:37:00,2021-09-11,14:53:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,Air India,AI,9502,AI9502,0.0,0.0,Asia,Kolkata,2021-09-11,08:46:00,2021-09-11,09:55:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chikkalthana,IXU,IndiGo,6E,7304,6E7304,0.0,0.0,Asia,Kolkata,2021-09-11,09:29:00,2021-09-11,11:08:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Dubai,DXB,Emirates,EK,525,EK525,13.0,0.0,Asia,Dubai,2021-09-11,04:48:00,2021-09-11,06:33:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Lohegaon,PNQ,IndiGo,6E,496,6E496,14.0,0.0,Asia,Kolkata,2021-09-11,14:39:00,2021-09-11,15:30:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,Alliance Air,9I,893,9I893,25.0,6.0,Asia,Kolkata,2021-09-11,06:49:00,2021-09-11,08:06:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,AirAsia India,I5,633,I5633,0.0,0.0,Asia,Kolkata,2021-09-11,15:22:00,2021-09-11,16:09:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Sharjah,SHJ,IndiGo,6E,1405,6E1405,22.0,5.0,Asia,Dubai,2021-09-11,14:11:00,2021-09-11,15:52:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Varanasi,VNS,IndiGo,6E,915,6E915,0.0,0.0,Asia,Kolkata,2021-09-11,08:50:00,2021-09-11,10:29:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,Vistara,UK,898,UK898,9.0,0.0,Asia,Kolkata,2021-09-11,07:49:00,2021-09-11,08:36:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Tirupati,TIR,IndiGo,6E,133,6E133,5.0,0.0,Asia,Kolkata,2021-09-11,09:59:00,2021-09-11,10:45:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Mysore,MYQ,IndiGo,6E,7921,6E7921,5.0,0.0,Asia,Kolkata,2021-09-11,12:44:00,2021-09-11,14:15:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Goa International,GOI,IndiGo,6E,6009,6E6009,8.0,0.0,Asia,Kolkata,2021-09-11,16:23:00,2021-09-11,17:15:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5325,6E5325,17.0,0.0,Asia,Kolkata,2021-09-11,16:17:00,2021-09-11,17:24:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5372,6E5372,0.0,0.0,Asia,Kolkata,2021-09-11,06:08:00,2021-09-11,07:19:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5732,6E5732,13.0,0.0,Asia,Kolkata,2021-09-11,10:33:00,2021-09-11,11:35:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,903,6E903,12.0,0.0,Asia,Kolkata,2021-09-11,14:22:00,2021-09-11,15:30:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,United Airlines,UA,7774,UA7774,2.0,0.0,Asia,Kolkata,2021-09-11,09:12:00,2021-09-11,10:13:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,874,UK874,2.0,0.0,Asia,Kolkata,2021-09-11,09:12:00,2021-09-11,10:13:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Goa International,GOI,AirAsia India,I5,634,I5634,6.0,0.0,Asia,Kolkata,2021-09-11,11:11:00,2021-09-11,12:03:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Netaji Subhas Chandra,CCU,IndiGo,6E,353,6E353,0.0,0.0,Asia,Kolkata,2021-09-11,06:24:00,2021-09-11,08:15:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Goa International,GOI,IndiGo,6E,581,6E581,4.0,0.0,Asia,Kolkata,2021-09-11,12:39:00,2021-09-11,13:32:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Netaji Subhas Chandra,CCU,IndiGo,6E,6358,6E6358,27.0,12.0,Asia,Kolkata,2021-09-11,10:56:00,2021-09-11,12:41:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Dubai,DXB,IndiGo,6E,26,6E26,35.0,0.0,Asia,Dubai,2021-09-11,02:34:00,2021-09-11,04:17:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Netaji Subhas Chandra,CCU,IndiGo,6E,6557,6E6557,2.0,0.0,Asia,Kolkata,2021-09-11,13:41:00,2021-09-11,15:32:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Bagdogra,IXB,IndiGo,6E,6035,6E6035,8.0,0.0,Asia,Kolkata,2021-09-11,08:23:00,2021-09-11,10:30:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,IndiGo,6E,121,6E121,0.0,0.0,Asia,Kolkata,2021-09-11,07:47:00,2021-09-11,08:43:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Netaji Subhas Chandra,CCU,IndiGo,6E,6708,6E6708,0.0,0.0,Asia,Kolkata,2021-09-11,05:23:00,2021-09-11,07:10:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Govardhanpur,JGA,Star Air,OG,150,OG150,6.0,0.0,Asia,Kolkata,2021-09-11,08:25:00,2021-09-11,10:00:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Netaji Subhas Chandra,CCU,Air India,AI,525,AI525,16.0,1.0,Asia,Kolkata,2021-09-11,06:16:00,2021-09-11,08:05:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Netaji Subhas Chandra,CCU,AirAsia India,I5,328,I5328,0.0,0.0,Asia,Kolkata,2021-09-11,14:55:00,2021-09-11,16:44:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Devi Ahilyabai Holkar,IDR,IndiGo,6E,6915,6E6915,4.0,0.0,Asia,Kolkata,2021-09-11,14:03:00,2021-09-11,15:09:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Doha International,DOH,Qatar Airways,QR,501,QR501,18.0,0.0,Asia,Qatar,2021-09-11,03:18:00,2021-09-11,04:11:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Peelamedu,CJB,IndiGo,6E,378,6E378,3.0,0.0,Asia,Kolkata,2021-09-11,16:13:00,2021-09-11,17:17:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,AirAsia India,I5,327,I5327,1.0,0.0,Asia,Kolkata,2021-09-11,11:16:00,2021-09-11,12:12:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,IndiGo,6E,6142,6E6142,10.0,0.0,Asia,Kolkata,2021-09-11,10:40:00,2021-09-11,11:33:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Cochin International,COK,IndiGo,6E,283,6E283,6.0,0.0,Asia,Kolkata,2021-09-11,11:56:00,2021-09-11,13:08:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Lohegaon,PNQ,IndiGo,6E,241,6E241,2.0,0.0,Asia,Kolkata,2021-09-11,07:32:00,2021-09-11,08:24:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Lohegaon,PNQ,SpiceJet,SG,3703,SG3703,1.0,0.0,Asia,Kolkata,2021-09-11,06:56:00,2021-09-11,08:09:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Patna,PAT,IndiGo,6E,982,6E982,4.0,0.0,Asia,Kolkata,2021-09-11,09:13:00,2021-09-11,10:54:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,IndiGo,6E,597,6E597,15.0,1.0,Asia,Kolkata,2021-09-11,14:20:00,2021-09-11,15:20:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Sharjah,SHJ,Air Arabia,G9,451,G9451,19.0,0.0,Asia,Dubai,2021-09-11,14:34:00,2021-09-11,16:15:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Raipur,RPR,IndiGo,6E,938,6E938,0.0,0.0,Asia,Kolkata,2021-09-11,08:39:00,2021-09-11,09:43:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Vijayawada,VGA,IndiGo,6E,7298,6E7298,11.0,0.0,Asia,Kolkata,2021-09-11,14:15:00,2021-09-11,14:59:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,IndiGo,6E,2388,6E2388,0.0,22.0,Asia,Kolkata,2021-09-11,07:09:00,2021-09-11,09:47:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Vishakhapatnam,VTZ,IndiGo,6E,626,6E626,10.0,0.0,Asia,Kolkata,2021-09-11,15:04:00,2021-09-11,16:03:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,IndiGo,6E,6468,6E6468,60.0,42.0,Asia,Kolkata,2021-09-11,15:30:00,2021-09-11,17:32:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Tirupati,TIR,SpiceJet,SG,1079,SG1079,216.0,0.0,Asia,Kolkata,2021-09-11,13:11:00,2021-09-11,14:04:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Rajahmundry,RJA,IndiGo,6E,7293,6E7293,4.0,0.0,Asia,Kolkata,2021-09-11,10:09:00,2021-09-11,11:08:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Madras International (Meenambakkam),MAA,IndiGo,6E,381,6E381,9.0,0.0,Asia,Kolkata,2021-09-11,16:44:00,2021-09-11,17:32:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,Vistara,UK,830,UK830,16.0,8.0,Asia,Kolkata,2021-09-11,10:20:00,2021-09-11,12:38:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,Air India,AI,543,AI543,8.0,0.0,Asia,Kolkata,2021-09-11,11:22:00,2021-09-11,13:26:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,British Airways,BA,5874,BA5874,16.0,8.0,Asia,Kolkata,2021-09-11,10:20:00,2021-09-11,12:38:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Vishakhapatnam,VTZ,IndiGo,6E,879,6E879,22.0,3.0,Asia,Kolkata,2021-09-11,11:31:00,2021-09-11,12:27:00,11-09-2021
+2021-09-11,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,AirAsia India,I5,712,I5712,4.0,0.0,Asia,Kolkata,2021-09-11,08:44:00,2021-09-11,10:52:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Ahmedabad,AMD,IndiGo,6E,6719,6E6719,5.0,0.0,Asia,Kolkata,2021-09-10,12:24:00,2021-09-10,13:49:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Ahmedabad,AMD,IndiGo,6E,995,6E995,6.0,0.0,Asia,Kolkata,2021-09-10,05:10:00,2021-09-10,06:31:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Abu Dhabi International,AUH,Etihad Airways,EY,275,EY275,23.0,0.0,Asia,Dubai,2021-09-10,01:17:00,2021-09-10,03:04:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Bhubaneswar,BBI,IndiGo,6E,266,6E266,8.0,0.0,Asia,Kolkata,2021-09-10,07:42:00,2021-09-10,09:04:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Bhubaneswar,BBI,IndiGo,6E,922,6E922,7.0,0.0,Asia,Kolkata,2021-09-10,14:37:00,2021-09-10,16:02:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,413,6E413,6.0,0.0,Asia,Kolkata,2021-09-10,07:21:00,2021-09-10,08:08:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,6066,6E6066,2.0,0.0,Asia,Kolkata,2021-09-10,09:06:00,2021-09-10,09:53:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,6319,6E6319,9.0,0.0,Asia,Kolkata,2021-09-10,16:34:00,2021-09-10,17:24:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Bangalore International Airport,BLR,IndiGo,6E,827,6E827,0.0,0.0,Asia,Kolkata,2021-09-10,13:04:00,2021-09-10,13:53:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5372,6E5372,3.0,0.0,Asia,Kolkata,2021-09-10,06:08:00,2021-09-10,07:13:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5732,6E5732,5.0,0.0,Asia,Kolkata,2021-09-10,10:25:00,2021-09-10,11:33:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,6453,6E6453,9.0,0.0,Asia,Kolkata,2021-09-10,08:09:00,2021-09-10,09:14:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,884,6E884,1.0,0.0,Asia,Kolkata,2021-09-10,21:45:00,2021-09-10,22:49:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,Air India,AI,569,AI569,39.0,6.0,Asia,Kolkata,2021-09-10,08:24:00,2021-09-10,09:31:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,Air India,AI,616,AI616,8.0,0.0,Asia,Kolkata,2021-09-10,08:33:00,2021-09-10,09:38:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,Air India,AI,698,AI698,0.0,0.0,Asia,Kolkata,2021-09-10,21:59:00,2021-09-10,23:05:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,Blue Dart Aviation,BZ,154,BZ154,15.0,0.0,Asia,Kolkata,2021-09-10,00:24:00,2021-09-10,01:26:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,876,UK876,0.0,0.0,Asia,Kolkata,2021-09-10,21:28:00,2021-09-10,22:27:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Kozhikode Airport,CCJ,IndiGo,6E,7287,6E7287,11.0,0.0,Asia,Kolkata,2021-09-10,18:30:00,2021-09-10,20:34:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,Air India,AI,543,AI543,17.0,0.0,Asia,Kolkata,2021-09-10,11:22:00,2021-09-10,13:28:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,Air India,AI,559,AI559,0.0,0.0,Asia,Kolkata,2021-09-10,06:40:00,2021-09-10,08:35:00,11-09-2021
+2021-09-10,landed,Hyderabad Airport,HYD,Indira Gandhi International,DEL,British Airways,BA,5874,BA5874,18.0,0.0,Asia,Kolkata,2021-09-10,10:23:00,2021-09-10,12:14:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Madras International (Meenambakkam),MAA,IndiGo,6E,6212,6E6212,3.0,0.0,Asia,Kolkata,2021-09-11,10:42:00,2021-09-11,11:25:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Ahmedabad,AMD,IndiGo,6E,287,6E287,60.0,0.0,Asia,Kolkata,2021-09-11,12:25:00,2021-09-11,14:13:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Goa International,GOI,IndiGo,6E,667,6E667,9.0,0.0,Asia,Kolkata,2021-09-11,11:18:00,2021-09-11,12:08:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Dr. Babasaheb Ambedkar International,NAG,IndiGo,6E,6802,6E6802,0.0,0.0,Asia,Kolkata,2021-09-11,08:15:00,2021-09-11,09:33:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Ahmedabad,AMD,IndiGo,6E,586,6E586,5.0,0.0,Asia,Kolkata,2021-09-11,06:09:00,2021-09-11,07:58:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Kolhapur,KLH,Air India,AI,9876,AI9876,19.0,0.0,Asia,Kolkata,2021-09-11,15:34:00,2021-09-11,17:00:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Singerbhil,IXA,IndiGo,6E,524,6E524,21.0,18.0,Asia,Kolkata,2021-09-11,11:31:00,2021-09-11,14:05:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,IndiGo,6E,537,6E537,9.0,0.0,Asia,Kolkata,2021-09-11,14:58:00,2021-09-11,15:49:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Raja Sansi International Airport,ATQ,IndiGo,6E,477,6E477,6.0,0.0,Asia,Kolkata,2021-09-11,09:36:00,2021-09-11,12:21:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,Vistara,UK,816,UK816,34.0,21.0,Asia,Kolkata,2021-09-11,12:04:00,2021-09-11,14:31:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Madras International (Meenambakkam),MAA,AirAsia India,I5,672,I5672,0.0,0.0,Asia,Kolkata,2021-09-11,16:02:00,2021-09-11,16:39:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Abu Dhabi International,AUH,Alitalia,AZ,5793,AZ5793,12.0,0.0,Asia,Dubai,2021-09-11,08:31:00,2021-09-11,10:17:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Jodhpur,JDH,IndiGo,6E,6032,6E6032,9.0,0.0,Asia,Kolkata,2021-09-11,10:59:00,2021-09-11,13:07:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Abu Dhabi International,AUH,Etihad Airways,EY,237,EY237,12.0,0.0,Asia,Dubai,2021-09-11,08:31:00,2021-09-11,10:17:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bagdogra,IXB,IndiGo,6E,973,6E973,3.0,0.0,Asia,Kolkata,2021-09-11,11:33:00,2021-09-11,14:09:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Abu Dhabi International,AUH,flynas,XY,3237,XY3237,12.0,0.0,Asia,Dubai,2021-09-11,08:31:00,2021-09-11,10:17:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bhubaneswar,BBI,IndiGo,6E,368,6E368,7.0,0.0,Asia,Kolkata,2021-09-11,09:47:00,2021-09-11,11:28:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bhubaneswar,BBI,IndiGo,6E,959,6E959,18.0,1.0,Asia,Kolkata,2021-09-11,15:07:00,2021-09-11,16:53:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,Air India,AI,9501,AI9501,0.0,0.0,Asia,Kolkata,2021-09-11,06:23:00,2021-09-11,07:32:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Dubai,DXB,flydubai,FZ,406,FZ406,16.0,0.0,Asia,Dubai,2021-09-11,10:55:00,2021-09-11,12:50:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,488,6E488,11.0,0.0,Asia,Kolkata,2021-09-11,10:46:00,2021-09-11,12:14:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Amausi,LKO,IndiGo,6E,6653,6E6653,10.0,0.0,Asia,Kolkata,2021-09-11,14:00:00,2021-09-11,16:10:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5369,6E5369,0.0,0.0,Asia,Kolkata,2021-09-11,05:43:00,2021-09-11,07:04:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Govardhanpur,JGA,Star Air,OG,131,OG131,449.0,0.0,Asia,Kolkata,2021-09-11,13:58:00,2021-09-11,15:56:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Mysore,MYQ,Air India,AI,9505,AI9505,10.0,0.0,Asia,Kolkata,2021-09-11,09:10:00,2021-09-11,09:43:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5591,6E5591,1.0,0.0,Asia,Kolkata,2021-09-11,07:30:00,2021-09-11,08:46:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Malé International Airport,MLE,GoAir,G8,1532,G81532,0.0,0.0,Indian,Maldives,2021-09-11,13:22:00,2021-09-11,14:40:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Amausi,LKO,IndiGo,6E,196,6E196,5.0,0.0,Asia,Kolkata,2021-09-11,06:30:00,2021-09-11,08:39:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,6817,6E6817,5.0,0.0,Asia,Kolkata,2021-09-11,16:39:00,2021-09-11,18:02:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Dubai,DXB,Emirates,EK,565,EK565,0.0,0.0,Asia,Dubai,2021-09-11,10:34:00,2021-09-11,12:18:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,918,6E918,4.0,0.0,Asia,Kolkata,2021-09-11,08:38:00,2021-09-11,09:54:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Doha International,DOH,IndiGo,6E,1724,6E1724,23.0,0.0,Asia,Qatar,2021-09-11,06:52:00,2021-09-11,08:08:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Goa International,GOI,IndiGo,6E,194,6E194,0.0,0.0,Asia,Kolkata,2021-09-11,06:20:00,2021-09-11,07:11:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Gorakhpur,GOP,IndiGo,6E,6563,6E6563,0.0,0.0,Asia,Kolkata,2021-09-11,06:03:00,2021-09-11,08:27:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Goa International,GOI,AirAsia India,I5,1322,I51322,5.0,0.0,Asia,Kolkata,2021-09-11,15:24:00,2021-09-11,16:18:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,Vistara,UK,808,UK808,0.0,0.0,Asia,Kolkata,2021-09-11,07:55:00,2021-09-11,10:25:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,IndiGo,6E,6491,6E6491,4.0,0.0,Asia,Kolkata,2021-09-11,13:29:00,2021-09-11,14:20:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chandigarh,IXC,IndiGo,6E,6512,6E6512,6.0,0.0,Asia,Kolkata,2021-09-11,11:06:00,2021-09-11,13:44:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,AirAsia India,I5,941,I5941,0.0,0.0,Asia,Kolkata,2021-09-11,04:38:00,2021-09-11,05:56:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,SpiceJet,SG,7446,SG7446,0.0,0.0,Asia,Kolkata,2021-09-11,05:52:00,2021-09-11,07:30:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Devi Ahilyabai Holkar,IDR,IndiGo,6E,6657,6E6657,21.0,0.0,Asia,Kolkata,2021-09-11,13:10:00,2021-09-11,14:43:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,852,UK852,10.0,0.0,Asia,Kolkata,2021-09-11,09:40:00,2021-09-11,11:01:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,IndiGo,6E,484,6E484,8.0,0.0,Asia,Kolkata,2021-09-11,07:27:00,2021-09-11,08:39:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Doha International,DOH,Qatar Airways,QR,8695,QR8695,16.0,0.0,Asia,Qatar,2021-09-11,05:01:00,2021-09-11,06:12:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Kozhikode Airport,CCJ,IndiGo,6E,345,6E345,0.0,0.0,Asia,Kolkata,2021-09-11,11:54:00,2021-09-11,12:33:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,IndiGo,6E,172,6E172,9.0,0.0,Asia,Kolkata,2021-09-11,13:09:00,2021-09-11,15:22:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Amausi,LKO,GoAir,G8,808,G8808,0.0,0.0,Asia,Kolkata,2021-09-11,13:37:00,2021-09-11,15:51:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,IndiGo,6E,344,6E344,12.0,0.0,Asia,Kolkata,2021-09-11,08:37:00,2021-09-11,10:45:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Heathrow,LHR,British Airways,BA,118,BA118,35.0,0.0,Europe,London,2021-09-11,07:24:00,2021-09-11,12:55:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,IndiGo,6E,436,6E436,1.0,0.0,Asia,Kolkata,2021-09-11,05:56:00,2021-09-11,08:08:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,IndiGo,6E,503,6E503,5.0,0.0,Asia,Kolkata,2021-09-11,11:25:00,2021-09-11,13:35:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Sanganeer,JAI,AirAsia India,I5,1426,I51426,10.0,0.0,Asia,Kolkata,2021-09-11,14:25:00,2021-09-11,16:30:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Malé International Airport,MLE,IndiGo,6E,8253,6E8253,27.0,25.0,Indian,Maldives,2021-09-11,14:52:00,2021-09-11,16:20:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,IndiGo,6E,6339,6E6339,0.0,0.0,Asia,Kolkata,2021-09-11,06:53:00,2021-09-11,09:06:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Madras International (Meenambakkam),MAA,IndiGo,6E,841,6E841,5.0,0.0,Asia,Kolkata,2021-09-11,15:04:00,2021-09-11,15:44:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,IndiGo,6E,997,6E997,9.0,0.0,Asia,Kolkata,2021-09-11,15:18:00,2021-09-11,17:29:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Narita International Airport,NRT,JAL,JL,754,JL754,13.0,16.0,Asia,Tokyo,2021-09-11,02:57:00,2021-09-11,14:24:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Mysore,MYQ,Alliance Air,9I,505,9I505,10.0,0.0,Asia,Kolkata,2021-09-11,09:10:00,2021-09-11,09:43:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Netaji Subhas Chandra,CCU,AirAsia India,I5,2472,I52472,0.0,0.0,Asia,Kolkata,2021-09-11,05:28:00,2021-09-11,07:39:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Madras International (Meenambakkam),MAA,IndiGo,6E,6269,6E6269,0.0,0.0,Asia,Kolkata,2021-09-11,07:06:00,2021-09-11,07:49:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Kolhapur,KLH,Alliance Air,9I,876,9I876,19.0,0.0,Asia,Kolkata,2021-09-11,15:34:00,2021-09-11,17:00:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Dubai,DXB,Emirates,EK,569,EK569,5.0,0.0,Asia,Dubai,2021-09-11,04:22:00,2021-09-11,06:02:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Peelamedu,CJB,IndiGo,6E,992,6E992,3.0,0.0,Asia,Kolkata,2021-09-11,14:43:00,2021-09-11,15:19:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Doha International,DOH,Qatar Airways,QR,573,QR573,16.0,0.0,Asia,Qatar,2021-09-11,04:11:00,2021-09-11,05:12:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Cochin International,COK,IndiGo,6E,113,6E113,4.0,0.0,Asia,Kolkata,2021-09-11,08:03:00,2021-09-11,08:49:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,SpiceJet,SG,190,SG190,0.0,2.0,Asia,Kolkata,2021-09-11,05:58:00,2021-09-11,09:06:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Goa International,GOI,IndiGo,6E,417,6E417,6.0,0.0,Asia,Kolkata,2021-09-11,14:40:00,2021-09-11,15:34:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Borjhar,GAU,AirAsia India,I5,2469,I52469,12.0,0.0,Asia,Kolkata,2021-09-11,15:17:00,2021-09-11,18:02:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hubli,HBX,IndiGo,6E,7227,6E7227,1.0,0.0,Asia,Kolkata,2021-09-11,07:16:00,2021-09-11,08:17:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Cochin International,COK,IndiGo,6E,703,6E703,1.0,0.0,Asia,Kolkata,2021-09-11,13:30:00,2021-09-11,14:13:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Goa International,GOI,Vistara,UK,867,UK867,4.0,0.0,Asia,Kolkata,2021-09-11,12:23:00,2021-09-11,13:12:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Cochin International,COK,AirAsia India,I5,1451,I51451,0.0,0.0,Asia,Kolkata,2021-09-11,05:40:00,2021-09-11,06:23:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Borjhar,GAU,AirAsia India,I5,1982,I51982,0.0,0.0,Asia,Kolkata,2021-09-11,07:02:00,2021-09-11,09:46:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,AirAsia India,I5,741,I5741,21.0,5.0,Asia,Kolkata,2021-09-11,11:46:00,2021-09-11,14:09:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Cochin International,COK,SpiceJet,SG,3468,SG3468,4.0,0.0,Asia,Kolkata,2021-09-11,07:48:00,2021-09-11,08:42:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,AirAsia India,I5,1576,I51576,0.0,0.0,Asia,Kolkata,2021-09-11,07:18:00,2021-09-11,08:11:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Dehra Dun,DED,IndiGo,6E,852,6E852,4.0,0.0,Asia,Kolkata,2021-09-11,13:13:00,2021-09-11,15:46:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,Alliance Air,9I,501,9I501,0.0,0.0,Asia,Kolkata,2021-09-11,06:23:00,2021-09-11,07:32:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,IndiGo,6E,2087,6E2087,7.0,0.0,Asia,Kolkata,2021-09-11,13:02:00,2021-09-11,15:36:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,IndiGo,6E,466,6E466,9.0,0.0,Asia,Kolkata,2021-09-11,16:33:00,2021-09-11,17:23:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,IndiGo,6E,2271,6E2271,7.0,0.0,Asia,Kolkata,2021-09-11,07:57:00,2021-09-11,10:31:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bagdogra,IXB,AirAsia India,I5,2392,I52392,6.0,0.0,Asia,Kolkata,2021-09-11,11:55:00,2021-09-11,14:27:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,Star Air,OG,151,OG151,0.0,0.0,Asia,Kolkata,2021-09-11,06:49:00,2021-09-11,07:48:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,IndiGo,6E,2288,6E2288,2.0,16.0,Asia,Kolkata,2021-09-11,05:31:00,2021-09-11,08:35:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bajpe,IXE,IndiGo,6E,317,6E317,3.0,0.0,Asia,Kolkata,2021-09-11,12:48:00,2021-09-11,13:25:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,IndiGo,6E,2363,6E2363,16.0,18.0,Asia,Kolkata,2021-09-11,09:55:00,2021-09-11,12:48:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bamrauli,IXD,IndiGo,6E,5998,6E5998,4.0,0.0,Asia,Kolkata,2021-09-11,13:33:00,2021-09-11,15:34:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bagdogra,IXB,SpiceJet,SG,327,SG327,0.0,0.0,Asia,Kolkata,2021-09-11,05:47:00,2021-09-11,08:20:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,IndiGo,6E,5824,6E5824,27.0,7.0,Asia,Kolkata,2021-09-11,15:02:00,2021-09-11,17:26:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,AirAsia India,I5,634,I5634,0.0,0.0,Asia,Kolkata,2021-09-11,09:13:00,2021-09-11,10:05:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Hyderabad Airport,HYD,IndiGo,6E,262,6E262,3.0,0.0,Asia,Kolkata,2021-09-11,11:02:00,2021-09-11,11:51:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,Air India,AI,501,AI501,3.0,0.0,Asia,Kolkata,2021-09-11,13:23:00,2021-09-11,15:59:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,GoAir,G8,9401,G89401,22.0,5.0,Asia,Kolkata,2021-09-11,03:06:00,2021-09-11,05:30:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Sanganeer,JAI,IndiGo,6E,415,6E415,5.0,0.0,Asia,Kolkata,2021-09-11,07:50:00,2021-09-11,09:58:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,Air India,AI,505,AI505,1.0,4.0,Asia,Kolkata,2021-09-11,10:26:00,2021-09-11,13:13:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Birsa Munda International,IXR,IndiGo,6E,442,6E442,0.0,0.0,Asia,Kolkata,2021-09-11,06:41:00,2021-09-11,08:49:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,Air India,AI,804,AI804,0.0,15.0,Asia,Kolkata,2021-09-11,06:08:00,2021-09-11,09:10:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Bajpe,IXE,IndiGo,6E,583,6E583,4.0,0.0,Asia,Kolkata,2021-09-11,09:54:00,2021-09-11,10:29:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,British Airways,BA,5838,BA5838,34.0,21.0,Asia,Kolkata,2021-09-11,12:04:00,2021-09-11,14:31:00,11-09-2021
+2021-09-11,landed,Bangalore International Airport,BLR,Indira Gandhi International,DEL,GoAir,G8,116,G8116,0.0,0.0,Asia,Kolkata,2021-09-11,06:55:00,2021-09-11,09:53:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Ahmedabad,AMD,IndiGo,6E,6244,6E6244,6.0,0.0,Asia,Kolkata,2021-09-11,05:01:00,2021-09-11,07:01:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Vijayawada,VGA,IndiGo,6E,7208,6E7208,5.0,0.0,Asia,Kolkata,2021-09-11,10:15:00,2021-09-11,11:15:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,AirAsia India,I5,328,I5328,11.0,0.0,Asia,Kolkata,2021-09-11,13:11:00,2021-09-11,14:04:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Ahmedabad,AMD,SpiceJet,SG,391,SG391,0.0,2.0,Asia,Kolkata,2021-09-11,06:01:00,2021-09-11,08:02:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Abu Dhabi International,AUH,Etihad Airways,EY,269,EY269,15.0,0.0,Asia,Dubai,2021-09-11,02:45:00,2021-09-11,04:38:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Abu Dhabi International,AUH,KLM,KL,3925,KL3925,15.0,0.0,Asia,Dubai,2021-09-11,02:45:00,2021-09-11,04:38:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Abu Dhabi International,AUH,flynas,XY,3269,XY3269,15.0,0.0,Asia,Dubai,2021-09-11,02:45:00,2021-09-11,04:38:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bahrain International,BAH,Gulf Air,GF,69,GF69,9.0,0.0,Asia,Bahrain,2021-09-11,06:14:00,2021-09-11,07:59:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bhubaneswar,BBI,IndiGo,6E,6627,6E6627,13.0,0.0,Asia,Kolkata,2021-09-11,12:43:00,2021-09-11,14:12:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,447,6E447,0.0,0.0,Asia,Kolkata,2021-09-11,08:58:00,2021-09-11,09:29:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,IndiGo,6E,6183,6E6183,22.0,3.0,Asia,Kolkata,2021-09-11,16:11:00,2021-09-11,17:01:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,6011,6E6011,0.0,0.0,Asia,Kolkata,2021-09-11,14:27:00,2021-09-11,15:00:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,6897,6E6897,0.0,0.0,Asia,Kolkata,2021-09-11,05:21:00,2021-09-11,05:54:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Sharjah,SHJ,Air Arabia,G9,472,G9472,60.0,41.0,Asia,Dubai,2021-09-11,05:19:00,2021-09-11,07:30:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,847,6E847,0.0,0.0,Asia,Kolkata,2021-09-11,16:40:00,2021-09-11,17:13:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Civil,TRZ,IndiGo,6E,7145,6E7145,3.0,0.0,Asia,Kolkata,2021-09-11,08:07:00,2021-09-11,08:56:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hubli,HBX,IndiGo,6E,7986,6E7986,0.0,0.0,Asia,Kolkata,2021-09-11,06:04:00,2021-09-11,07:38:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,495,6E495,0.0,0.0,Asia,Kolkata,2021-09-11,10:43:00,2021-09-11,12:17:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,782,6E782,5.0,0.0,Asia,Kolkata,2021-09-11,09:24:00,2021-09-11,10:57:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Kuwait International,KWI,Jazeera Airways,J9,1428,J91428,6.0,0.0,Asia,Kuwait,2021-09-11,03:36:00,2021-09-11,05:47:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,929,6E929,16.0,0.0,Asia,Kolkata,2021-09-11,15:55:00,2021-09-11,17:31:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,0,ISL,Turkish Airlines,TK,6299,TK6299,17.0,0.0,NA,NA,2021-09-11,02:32:00,2021-09-11,07:34:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,Air India,AI,569,AI569,0.0,0.0,Asia,Kolkata,2021-09-11,06:18:00,2021-09-11,07:51:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Borjhar,GAU,IndiGo,6E,112,6E112,1.0,0.0,Asia,Kolkata,2021-09-11,05:26:00,2021-09-11,07:57:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Lohegaon,PNQ,IndiGo,6E,502,6E502,0.0,0.0,Asia,Kolkata,2021-09-11,07:58:00,2021-09-11,09:18:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,GoAir,G8,304,G8304,4.0,0.0,Asia,Kolkata,2021-09-11,13:48:00,2021-09-11,15:20:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,SpiceJet,SG,612,SG612,6.0,0.0,Asia,Kolkata,2021-09-11,06:16:00,2021-09-11,07:47:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,United Airlines,UA,7777,UA7777,8.0,0.0,Asia,Kolkata,2021-09-11,09:57:00,2021-09-11,11:28:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,822,UK822,8.0,0.0,Asia,Kolkata,2021-09-11,09:57:00,2021-09-11,11:28:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,0,TCR,IndiGo,6E,7127,6E7127,4.0,0.0,NA,NA,2021-09-11,11:29:00,2021-09-11,12:50:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Dubai,DXB,flydubai,FZ,448,FZ448,17.0,0.0,Asia,Dubai,2021-09-11,05:11:00,2021-09-11,07:19:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,9920,6E9920,11.0,0.0,Asia,Kolkata,2021-09-11,13:41:00,2021-09-11,15:36:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Charles De Gaulle,CDG,Air France,AF,107,AF107,11.0,0.0,Europe,Paris,2021-09-11,01:31:00,2021-09-11,07:57:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Charles De Gaulle,CDG,Delta Air Lines,DL,8375,DL8375,11.0,0.0,Europe,Paris,2021-09-11,01:31:00,2021-09-11,07:57:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Charles De Gaulle,CDG,KLM,KL,2092,KL2092,11.0,0.0,Europe,Paris,2021-09-11,01:31:00,2021-09-11,07:57:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Peelamedu,CJB,IndiGo,6E,238,6E238,0.0,0.0,Asia,Kolkata,2021-09-11,12:01:00,2021-09-11,12:42:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,IndiGo,6E,384,6E384,0.0,0.0,Asia,Kolkata,2021-09-11,05:09:00,2021-09-11,05:59:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Peelamedu,CJB,IndiGo,6E,605,6E605,2.0,0.0,Asia,Kolkata,2021-09-11,14:17:00,2021-09-11,14:59:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,IndiGo,6E,757,6E757,8.0,0.0,Asia,Kolkata,2021-09-11,12:27:00,2021-09-11,13:21:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Peelamedu,CJB,IndiGo,6E,881,6E881,11.0,0.0,Asia,Kolkata,2021-09-11,10:11:00,2021-09-11,10:54:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,IndiGo,6E,269,6E269,3.0,0.0,Asia,Kolkata,2021-09-11,09:03:00,2021-09-11,09:53:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Dubai,DXB,Emirates,EK,545,EK545,4.0,0.0,Asia,Dubai,2021-09-11,09:53:00,2021-09-11,11:51:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,Air India,AI,9894,AI9894,22.0,12.0,Asia,Kolkata,2021-09-11,08:51:00,2021-09-11,10:22:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Heathrow,LHR,British Airways,BA,36,BA36,78.0,42.0,Europe,London,2021-09-11,06:48:00,2021-09-11,12:31:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bandaranaike International,CMB,IndiGo,6E,9961,6E9961,12.0,2.0,Asia,Colombo,2021-09-11,11:16:00,2021-09-11,12:19:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Heathrow,LHR,American Airlines,AA,6670,AA6670,78.0,42.0,Europe,London,2021-09-11,06:48:00,2021-09-11,12:31:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Madurai,IXM,IndiGo,6E,7195,6E7195,0.0,0.0,Asia,Kolkata,2021-09-11,10:05:00,2021-09-11,11:08:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Bandaranaike International,CMB,SriLankan Airlines,UL,126,UL126,0.0,0.0,Asia,Colombo,2021-09-11,03:19:00,2021-09-11,04:17:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Cochin International,COK,IndiGo,6E,137,6E137,4.0,0.0,Asia,Kolkata,2021-09-11,11:43:00,2021-09-11,12:35:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Hyderabad Airport,HYD,Alliance Air,9I,894,9I894,22.0,12.0,Asia,Kolkata,2021-09-11,08:51:00,2021-09-11,10:22:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Dubai,DXB,Emirates,EK,543,EK543,28.0,0.0,Asia,Dubai,2021-09-11,04:27:00,2021-09-11,06:39:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Cochin International,COK,IndiGo,6E,514,6E514,14.0,0.0,Asia,Kolkata,2021-09-11,16:23:00,2021-09-11,17:16:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Lohegaon,PNQ,IndiGo,6E,166,6E166,3.0,0.0,Asia,Kolkata,2021-09-11,13:17:00,2021-09-11,15:02:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Varanasi,VNS,IndiGo,6E,571,6E571,0.0,0.0,Asia,Kolkata,2021-09-11,12:45:00,2021-09-11,14:55:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Civil,TRZ,IndiGo,6E,7149,6E7149,6.0,0.0,Asia,Kolkata,2021-09-11,16:15:00,2021-09-11,17:04:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Thiruvananthapuram International,TRV,IndiGo,6E,126,6E126,0.0,0.0,Asia,Kolkata,2021-09-11,11:46:00,2021-09-11,12:44:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,IndiGo,6E,2394,6E2394,1.0,0.0,Asia,Kolkata,2021-09-11,12:21:00,2021-09-11,14:52:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Patna,PAT,IndiGo,6E,924,6E924,14.0,0.0,Asia,Kolkata,2021-09-11,10:03:00,2021-09-11,12:04:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,IndiGo,6E,5035,6E5035,13.0,21.0,Asia,Kolkata,2021-09-11,10:13:00,2021-09-11,13:11:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Air India,AI,430,AI430,0.0,0.0,Asia,Kolkata,2021-09-11,09:49:00,2021-09-11,12:29:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Malé International Airport,MLE,IndiGo,6E,8114,6E8114,29.0,10.0,Indian,Maldives,2021-09-11,14:23:00,2021-09-11,16:05:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,SpiceJet,SG,8411,SG8411,0.0,0.0,Asia,Kolkata,2021-09-11,10:52:00,2021-09-11,13:30:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Dubai,DXB,IndiGo,6E,65,6E65,25.0,0.0,Asia,Dubai,2021-09-11,06:55:00,2021-09-11,09:07:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Vistara,UK,832,UK832,0.0,3.0,Asia,Kolkata,2021-09-11,07:00:00,2021-09-11,09:58:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Vistara,UK,836,UK836,12.0,16.0,Asia,Kolkata,2021-09-11,11:01:00,2021-09-11,13:51:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Doha International,DOH,Qatar Airways,QR,8623,QR8623,75.0,39.0,Asia,Qatar,2021-09-11,10:50:00,2021-09-11,12:09:00,11-09-2021
+2021-09-11,landed,Madras International (Meenambakkam),MAA,Doha International,DOH,Qatar Airways,QR,529,QR529,38.0,0.0,Asia,Qatar,2021-09-11,04:18:00,2021-09-11,05:37:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Ahmedabad,AMD,IndiGo,6E,6244,6E6244,10.0,0.0,Asia,Kolkata,2021-09-10,05:05:00,2021-09-10,07:00:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Suvarnabhumi International,BKK,Thai Airways International,TG,338,TG338,25.0,0.0,Asia,Bangkok,2021-09-10,01:35:00,2021-09-10,06:03:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,447,6E447,0.0,0.0,Asia,Kolkata,2021-09-10,09:02:00,2021-09-10,09:36:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,727,6E727,0.0,0.0,Asia,Kolkata,2021-09-10,18:51:00,2021-09-10,19:30:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,IndiGo,6E,847,6E847,5.0,0.0,Asia,Kolkata,2021-09-10,16:49:00,2021-09-10,17:22:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,AirAsia India,I5,2462,I52462,0.0,0.0,Asia,Kolkata,2021-09-10,22:30:00,2021-09-10,23:03:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Bangalore International Airport,BLR,SpiceJet,SG,3467,SG3467,5.0,0.0,Asia,Kolkata,2021-09-10,19:55:00,2021-09-10,20:30:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,387,6E387,0.0,0.0,Asia,Kolkata,2021-09-10,20:04:00,2021-09-10,21:34:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,495,6E495,8.0,0.0,Asia,Kolkata,2021-09-10,10:53:00,2021-09-10,12:21:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,5309,6E5309,2.0,0.0,Asia,Kolkata,2021-09-10,07:17:00,2021-09-10,08:47:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,782,6E782,0.0,0.0,Asia,Kolkata,2021-09-10,09:19:00,2021-09-10,11:25:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,SpiceJet,SG,612,SG612,11.0,0.0,Asia,Kolkata,2021-09-10,06:21:00,2021-09-10,07:52:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,United Airlines,UA,7777,UA7777,0.0,0.0,Asia,Kolkata,2021-09-10,09:43:00,2021-09-10,11:14:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,822,UK822,0.0,0.0,Asia,Kolkata,2021-09-10,09:43:00,2021-09-10,11:14:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,824,UK824,16.0,0.0,Asia,Kolkata,2021-09-10,21:26:00,2021-09-10,23:01:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,292,6E292,12.0,4.0,Asia,Kolkata,2021-09-10,12:31:00,2021-09-10,14:38:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,6385,6E6385,0.0,0.0,Asia,Kolkata,2021-09-10,21:07:00,2021-09-10,23:01:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,797,6E797,20.0,0.0,Asia,Kolkata,2021-09-10,07:35:00,2021-09-10,09:44:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,892,6E892,0.0,0.0,Asia,Kolkata,2021-09-10,08:48:00,2021-09-10,10:43:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,923,6E923,10.0,3.0,Asia,Kolkata,2021-09-10,19:25:00,2021-09-10,21:22:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,IndiGo,6E,987,6E987,0.0,0.0,Asia,Kolkata,2021-09-10,05:09:00,2021-09-10,07:10:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,Air India,AI,766,AI766,24.0,0.0,Asia,Kolkata,2021-09-10,07:54:00,2021-09-10,09:57:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Netaji Subhas Chandra,CCU,AirAsia India,I5,557,I5557,1.0,0.0,Asia,Kolkata,2021-09-10,07:51:00,2021-09-10,09:48:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Peelamedu,CJB,IndiGo,6E,238,6E238,13.0,0.0,Asia,Kolkata,2021-09-10,12:22:00,2021-09-10,13:06:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Peelamedu,CJB,IndiGo,6E,291,6E291,21.0,8.0,Asia,Kolkata,2021-09-10,20:25:00,2021-09-10,21:08:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,IndiGo,6E,5035,6E5035,9.0,0.0,Asia,Kolkata,2021-09-10,10:08:00,2021-09-10,12:43:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,IndiGo,6E,5073,6E5073,19.0,0.0,Asia,Kolkata,2021-09-10,19:53:00,2021-09-10,22:20:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Air India,AI,347,AI347,8.0,0.0,Asia,Kolkata,2021-09-10,00:18:00,2021-09-10,02:39:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Air India,AI,430,AI430,0.0,0.0,Asia,Kolkata,2021-09-10,09:52:00,2021-09-10,12:23:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Air India,AI,440,AI440,0.0,0.0,Asia,Kolkata,2021-09-10,06:08:00,2021-09-10,08:39:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Vishakhapatnam,VTZ,SpiceJet,SG,3831,SG3831,3.0,0.0,Asia,Kolkata,2021-09-10,07:07:00,2021-09-10,08:26:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Vistara,UK,832,UK832,0.0,0.0,Asia,Kolkata,2021-09-10,07:02:00,2021-09-10,09:24:00,11-09-2021
+2021-09-10,landed,Madras International (Meenambakkam),MAA,Indira Gandhi International,DEL,Vistara,UK,834,UK834,6.0,0.0,Asia,Kolkata,2021-09-10,17:31:00,2021-09-10,19:57:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bagdogra,IXB,IndiGo,6E,422,6E422,0.0,0.0,Asia,Kolkata,2021-09-11,10:36:00,2021-09-11,11:22:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bagdogra,IXB,GoAir,G8,538,G8538,29.0,38.0,Asia,Kolkata,2021-09-11,13:44:00,2021-09-11,14:37:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Suvarnabhumi International,BKK,IndiGo,6E,9060,6E9060,33.0,16.0,Asia,Bangkok,2021-09-11,00:42:00,2021-09-11,04:31:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,345,6E345,0.0,0.0,Asia,Kolkata,2021-09-11,08:29:00,2021-09-11,10:35:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Patna,PAT,IndiGo,6E,599,6E599,19.0,0.0,Asia,Kolkata,2021-09-11,16:49:00,2021-09-11,17:36:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bagdogra,IXB,IndiGo,6E,677,6E677,4.0,0.0,Asia,Kolkata,2021-09-11,12:33:00,2021-09-11,13:20:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,6297,6E6297,12.0,0.0,Asia,Kolkata,2021-09-11,14:17:00,2021-09-11,16:23:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,6734,6E6734,1.0,0.0,Asia,Kolkata,2021-09-11,10:40:00,2021-09-11,12:48:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,6965,6E6965,11.0,0.0,Asia,Kolkata,2021-09-11,07:40:00,2021-09-11,09:44:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,AirAsia India,I5,2473,I52473,1.0,0.0,Asia,Kolkata,2021-09-11,08:45:00,2021-09-11,11:00:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Kumbhirgram,IXS,SpiceJet,SG,3218,SG3218,0.0,0.0,Asia,Kolkata,2021-09-11,06:14:00,2021-09-11,07:21:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,AirAsia India,I5,991,I5991,6.0,0.0,Asia,Kolkata,2021-09-11,16:16:00,2021-09-11,18:19:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,SpiceJet,SG,516,SG516,6.0,0.0,Asia,Kolkata,2021-09-11,08:55:00,2021-09-11,11:06:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Birsa Munda International,IXR,IndiGo,6E,114,6E114,0.0,0.0,Asia,Kolkata,2021-09-11,14:23:00,2021-09-11,15:03:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Singerbhil,IXA,IndiGo,6E,181,6E181,6.0,0.0,Asia,Kolkata,2021-09-11,12:45:00,2021-09-11,13:27:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Amausi,LKO,IndiGo,6E,675,6E675,0.0,0.0,Asia,Kolkata,2021-09-11,09:47:00,2021-09-11,11:07:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Madras International (Meenambakkam),MAA,IndiGo,6E,6827,6E6827,9.0,0.0,Asia,Kolkata,2021-09-11,16:18:00,2021-09-11,18:08:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Singerbhil,IXA,IndiGo,6E,139,6E139,0.0,0.0,Asia,Kolkata,2021-09-11,06:56:00,2021-09-11,07:37:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,2126,6E2126,10.0,10.0,Asia,Kolkata,2021-09-11,11:34:00,2021-09-11,13:59:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Sanganeer,JAI,IndiGo,6E,6154,6E6154,3.0,0.0,Asia,Kolkata,2021-09-11,10:17:00,2021-09-11,12:05:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,2286,6E2286,0.0,6.0,Asia,Kolkata,2021-09-11,09:14:00,2021-09-11,11:35:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,9917,6E9917,79.0,52.0,Asia,Kolkata,2021-09-11,03:49:00,2021-09-11,05:41:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Air India,AI,402,AI402,0.0,0.0,Asia,Kolkata,2021-09-11,10:33:00,2021-09-11,12:44:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Air India,AI,763,AI763,0.0,2.0,Asia,Kolkata,2021-09-11,06:49:00,2021-09-11,09:16:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,British Airways,BA,5858,BA5858,2.0,0.0,Asia,Kolkata,2021-09-11,07:11:00,2021-09-11,09:32:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,British Airways,BA,5860,BA5860,9.0,0.0,Asia,Kolkata,2021-09-11,16:14:00,2021-09-11,18:07:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,GoAir,G8,102,G8102,16.0,0.0,Asia,Kolkata,2021-09-11,14:36:00,2021-09-11,16:35:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Kumbhirgram,IXS,Air India,AI,753,AI753,0.0,0.0,Asia,Kolkata,2021-09-11,05:42:00,2021-09-11,06:31:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,AirAsia India,I5,552,I5552,11.0,10.0,Asia,Kolkata,2021-09-11,07:50:00,2021-09-11,10:05:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Bagdogra,IXB,AirAsia India,I5,582,I5582,5.0,0.0,Asia,Kolkata,2021-09-11,09:10:00,2021-09-11,09:56:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Municipal,IMF,Air India,AI,713,AI713,3.0,0.0,Asia,Kolkata,2021-09-11,13:02:00,2021-09-11,14:09:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,SpiceJet,SG,7615,SG7615,0.0,0.0,Asia,Kolkata,2021-09-11,00:25:00,2021-09-11,03:02:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,SpiceJet,SG,7788,SG7788,37.0,47.0,Asia,Kolkata,2021-09-11,06:52:00,2021-09-11,09:17:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Amausi,LKO,IndiGo,6E,394,6E394,8.0,0.0,Asia,Kolkata,2021-09-11,14:13:00,2021-09-11,15:27:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,United Airlines,UA,7726,UA7726,9.0,0.0,Asia,Kolkata,2021-09-11,16:14:00,2021-09-11,18:07:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Vishakhapatnam,VTZ,IndiGo,6E,6037,6E6037,8.0,0.0,Asia,Kolkata,2021-09-11,08:22:00,2021-09-11,09:34:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Vistara,UK,720,UK720,2.0,0.0,Asia,Kolkata,2021-09-11,07:11:00,2021-09-11,09:32:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Patna,PAT,IndiGo,6E,6917,6E6917,3.0,0.0,Asia,Kolkata,2021-09-11,11:42:00,2021-09-11,12:28:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Sanganeer,JAI,GoAir,G8,701,G8701,9.0,0.0,Asia,Kolkata,2021-09-11,06:09:00,2021-09-11,07:59:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Vistara,UK,778,UK778,9.0,0.0,Asia,Kolkata,2021-09-11,16:14:00,2021-09-11,18:07:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Municipal,IMF,IndiGo,6E,6358,6E6358,18.0,0.0,Asia,Kolkata,2021-09-11,13:32:00,2021-09-11,14:36:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Dimapur,DMU,IndiGo,6E,344,6E344,0.0,0.0,Asia,Kolkata,2021-09-11,11:50:00,2021-09-11,12:57:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Dubai,DXB,IndiGo,6E,27,6E27,27.0,0.0,Asia,Dubai,2021-09-11,08:02:00,2021-09-11,10:51:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Dubai,DXB,flydubai,FZ,460,FZ460,43.0,0.0,Asia,Dubai,2021-09-11,02:47:00,2021-09-11,05:47:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,IndiGo,6E,207,6E207,23.0,0.0,Asia,Kolkata,2021-09-11,10:42:00,2021-09-11,11:34:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,IndiGo,6E,568,6E568,10.0,0.0,Asia,Kolkata,2021-09-11,16:29:00,2021-09-11,17:27:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Hyderabad Airport,HYD,AirAsia India,I5,327,I5327,8.0,0.0,Asia,Kolkata,2021-09-11,08:42:00,2021-09-11,10:27:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,Alliance Air,9I,737,9I737,1.0,0.0,Asia,Kolkata,2021-09-11,10:01:00,2021-09-11,11:20:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,Alliance Air,9I,741,9I741,3.0,6.0,Asia,Kolkata,2021-09-11,07:08:00,2021-09-11,08:30:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,Air India,AI,729,AI729,2.0,0.0,Asia,Kolkata,2021-09-11,09:51:00,2021-09-11,10:47:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,Air India,AI,9737,AI9737,1.0,0.0,Asia,Kolkata,2021-09-11,10:01:00,2021-09-11,11:20:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,Air India,AI,9741,AI9741,3.0,6.0,Asia,Kolkata,2021-09-11,07:08:00,2021-09-11,08:30:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,AirAsia India,I5,541,I5541,0.0,0.0,Asia,Kolkata,2021-09-11,05:23:00,2021-09-11,06:13:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Goa International,GOI,IndiGo,6E,634,6E634,4.0,0.0,Asia,Kolkata,2021-09-11,11:29:00,2021-09-11,13:45:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Hyderabad Airport,HYD,IndiGo,6E,788,6E788,8.0,0.0,Asia,Kolkata,2021-09-11,05:53:00,2021-09-11,07:36:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Gorakhpur,GOP,IndiGo,6E,7175,6E7175,7.0,0.0,Asia,Kolkata,2021-09-11,11:56:00,2021-09-11,13:29:00,11-09-2021
+2021-09-11,landed,Netaji Subhas Chandra,CCU,Hyderabad Airport,HYD,IndiGo,6E,378,6E378,6.0,0.0,Asia,Kolkata,2021-09-11,13:20:00,2021-09-11,15:09:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Ahmedabad,AMD,IndiGo,6E,674,6E674,14.0,0.0,Asia,Kolkata,2021-09-10,21:04:00,2021-09-10,23:14:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Ahmedabad,AMD,IndiGo,6E,754,6E754,2.0,0.0,Asia,Kolkata,2021-09-10,08:17:00,2021-09-10,10:26:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bhubaneswar,BBI,IndiGo,6E,6869,6E6869,18.0,1.0,Asia,Kolkata,2021-09-10,18:37:00,2021-09-10,19:31:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bhubaneswar,BBI,IndiGo,6E,7116,6E7116,17.0,3.0,Asia,Kolkata,2021-09-10,15:26:00,2021-09-10,16:38:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Suvarnabhumi International,BKK,IndiGo,6E,9897,6E9897,10.0,4.0,Asia,Bangkok,2021-09-10,00:20:00,2021-09-10,04:04:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,348,6E348,12.0,0.0,Asia,Kolkata,2021-09-10,18:42:00,2021-09-10,20:48:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,437,6E437,12.0,0.0,Asia,Kolkata,2021-09-10,22:07:00,2021-09-11,00:07:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,6734,6E6734,10.0,0.0,Asia,Kolkata,2021-09-10,10:50:00,2021-09-10,12:54:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,IndiGo,6E,875,6E875,9.0,0.0,Asia,Kolkata,2021-09-10,16:33:00,2021-09-10,18:40:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,AirAsia India,I5,2473,I52473,11.0,0.0,Asia,Kolkata,2021-09-10,08:56:00,2021-09-10,10:59:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,AirAsia India,I5,991,I5991,10.0,0.0,Asia,Kolkata,2021-09-10,16:24:00,2021-09-10,18:33:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Bangalore International Airport,BLR,SpiceJet,SG,516,SG516,3.0,0.0,Asia,Kolkata,2021-09-10,08:53:00,2021-09-10,10:55:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,423,6E423,0.0,0.0,Asia,Kolkata,2021-09-10,07:03:00,2021-09-10,09:20:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,429,6E429,10.0,0.0,Asia,Kolkata,2021-09-10,10:59:00,2021-09-10,13:16:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,698,6E698,31.0,0.0,Asia,Kolkata,2021-09-10,21:06:00,2021-09-10,23:24:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,893,6E893,12.0,0.0,Asia,Kolkata,2021-09-10,09:42:00,2021-09-10,12:01:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,IndiGo,6E,934,6E934,0.0,0.0,Asia,Kolkata,2021-09-10,15:33:00,2021-09-10,17:49:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,AirAsia India,I5,433,I5433,19.0,0.0,Asia,Kolkata,2021-09-10,11:34:00,2021-09-10,13:42:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Vishakhapatnam,VTZ,SpiceJet,SG,3832,SG3832,16.0,0.0,Asia,Kolkata,2021-09-10,11:35:00,2021-09-10,12:58:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,United Airlines,UA,7772,UA7772,6.0,0.0,Asia,Kolkata,2021-09-10,17:46:00,2021-09-10,19:59:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,772,UK772,12.0,0.0,Asia,Kolkata,2021-09-10,10:36:00,2021-09-10,12:44:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,774,UK774,4.0,0.0,Asia,Kolkata,2021-09-10,20:33:00,2021-09-10,22:46:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Chhatrapati Shivaji International (Sahar International),BOM,Vistara,UK,776,UK776,6.0,0.0,Asia,Kolkata,2021-09-10,17:46:00,2021-09-10,19:59:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Cochin International,COK,IndiGo,6E,6966,6E6966,5.0,0.0,Asia,Kolkata,2021-09-10,18:55:00,2021-09-10,21:25:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Zia International,DAC,Air India,AI,1230,AI1230,15.0,0.0,Asia,Dhaka,2021-09-10,12:15:00,2021-09-10,13:18:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,2512,6E2512,0.0,0.0,Asia,Kolkata,2021-09-10,06:03:00,2021-09-10,07:58:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,2514,6E2514,5.0,0.0,Asia,Kolkata,2021-09-10,16:39:00,2021-09-10,18:40:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,5007,6E5007,11.0,0.0,Asia,Kolkata,2021-09-10,20:31:00,2021-09-10,22:30:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,IndiGo,6E,6574,6E6574,0.0,0.0,Asia,Kolkata,2021-09-10,14:14:00,2021-09-10,16:03:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Air India,AI,402,AI402,10.0,0.0,Asia,Kolkata,2021-09-10,10:44:00,2021-09-10,12:41:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Air India,AI,763,AI763,10.0,0.0,Asia,Kolkata,2021-09-10,07:05:00,2021-09-10,09:00:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Air India,AI,770,AI770,24.0,0.0,Asia,Kolkata,2021-09-10,20:54:00,2021-09-10,22:58:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,British Airways,BA,5858,BA5858,2.0,0.0,Asia,Kolkata,2021-09-10,07:11:00,2021-09-10,09:06:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,British Airways,BA,5862,BA5862,38.0,9.0,Asia,Kolkata,2021-09-10,20:57:00,2021-09-10,22:53:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Indira Gandhi International,DEL,Vistara,UK,708,UK708,38.0,9.0,Asia,Kolkata,2021-09-10,20:57:00,2021-09-10,22:53:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Dimapur,DMU,IndiGo,6E,2513,6E2513,9.0,0.0,Asia,Kolkata,2021-09-10,12:29:00,2021-09-10,13:40:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Dimapur,DMU,Air India,AI,709,AI709,0.0,0.0,Asia,Kolkata,2021-09-10,13:00:00,2021-09-10,14:14:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Doha International,DOH,Qatar Airways,QR,8095,QR8095,19.0,0.0,Asia,Qatar,2021-09-10,04:09:00,2021-09-10,06:13:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Dubai,DXB,Emirates,EK,571,EK571,27.0,0.0,Asia,Dubai,2021-09-10,10:11:00,2021-09-10,12:41:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Dubai,DXB,flydubai,FZ,460,FZ460,40.0,0.0,Asia,Dubai,2021-09-10,02:44:00,2021-09-10,05:34:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,IndiGo,6E,207,6E207,9.0,0.0,Asia,Kolkata,2021-09-10,10:29:00,2021-09-10,11:25:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,IndiGo,6E,568,6E568,8.0,0.0,Asia,Kolkata,2021-09-10,16:28:00,2021-09-10,17:20:00,11-09-2021
+2021-09-10,landed,Netaji Subhas Chandra,CCU,Borjhar,GAU,GoAir,G8,532,G8532,11.0,6.0,Asia,Kolkata,2021-09-10,10:21:00,2021-09-10,11:20:00,11-09-2021
