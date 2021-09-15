@@ -7,8 +7,8 @@ os.chdir('/home/ec2-user')
 BUCKET_NAME = 'siddharthbucket501' # replace with your bucket name
 KEY = 'Data_Final.csv' # replace with your object key
 session = boto3.Session(
-aws_access_key_id='AKIA5RNC3QEQVYJWSOHJ',
-aws_secret_access_key='J1GM6Cgo8coSpfGXun2NRsGdfvArWPDR5JC7XIRT'
+aws_access_key_id='#################',
+aws_secret_access_key='#################'
 )
 s3 = session.resource('s3')
 try:
