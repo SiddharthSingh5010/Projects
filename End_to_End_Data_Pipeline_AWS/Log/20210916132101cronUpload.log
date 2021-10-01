@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/boto3/s3/transfer.py", line 279, in upload_file
+    future.result()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/s3transfer/futures.py", line 106, in result
+    return self._coordinator.result()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/s3transfer/futures.py", line 265, in result
+    raise self._exception
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/s3transfer/tasks.py", line 126, in __call__
+    return self._execute_main(kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/s3transfer/tasks.py", line 150, in _execute_main
+    return_value = self._main(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/s3transfer/upload.py", line 694, in _main
+    client.put_object(Bucket=bucket, Key=key, Body=body, **extra_args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/botocore/client.py", line 386, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/botocore/client.py", line 705, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (InvalidAccessKeyId) when calling the PutObject operation: The AWS Access Key Id you provided does not exist in our records.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/Upload.py", line 15, in <module>
+    s3.Bucket(BUCKET_NAME).upload_file(KEY, 'Data_Final.csv')
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/boto3/s3/inject.py", line 210, in bucket_upload_file
+    ExtraArgs=ExtraArgs, Callback=Callback, Config=Config)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/boto3/s3/inject.py", line 132, in upload_file
+    extra_args=ExtraArgs, callback=Callback)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/boto3/s3/transfer.py", line 287, in upload_file
+    filename, '/'.join([bucket, key]), e))
+boto3.exceptions.S3UploadFailedError: Failed to upload Data_Final.csv to siddharthbucket501/Data_Final.csv: An error occurred (InvalidAccessKeyId) when calling the PutObject operation: The AWS Access Key Id you provided does not exist in our records.

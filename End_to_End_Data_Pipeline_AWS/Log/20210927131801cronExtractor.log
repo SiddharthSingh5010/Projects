@@ -1,0 +1,22 @@
+/home/ec2-user
+/home/ec2-user
+27-09-2021
+Departure: DEL
+Status : 200
+Successful for Departure DEL
+Departure: BOM
+Status : 200
+Successful for Departure BOM
+Departure: HYD
+Status : 200
+Successful for Departure HYD
+Departure: BLR
+Status : 200
+Successful for Departure BLR
+Departure: MAA
+Status : 200
+Successful for Departure MAA
+Departure: CCU
+Status : 200
+Successful for Departure CCU
+File Successfully save for date 27-09-2021 at Data/Data_27-09-2021.csv
